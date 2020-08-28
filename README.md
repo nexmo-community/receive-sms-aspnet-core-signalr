@@ -4,11 +4,11 @@
 
 This project demonstrates how to go about receiving SMS messages from the Vonage Messaging API using ASP.NET Core MVC and SignalR. With this project you'll be able to launch the supplied app, configure your Vonage API Webhooks, and receive SMS messages in real time directly into your browser.
 
-## Welcome to Nexmo
+## Welcome to Vonage
 
 <!-- change "github-repo" at the end of the link to be the name of your repo, this helps us understand which projects are driving signups so we can do more stuff that developers love -->
 
-If you're new to Nexmo, you can [sign up for a Nexmo account](https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=githubreceive-sms-aspnet-core-signalr) and get some free credit to get you started.
+If you're new to Vonage, you can [sign up for a Vonage API account](https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=githubreceive-sms-aspnet-core-signalr) and get some free credit to get you started.
 
 ## Prerequesites
 
@@ -47,8 +47,8 @@ To do this, navigate to https://dashboard.nexmo.com/settings. Under Default SMS 
 We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
 
 * Open an issue on this repository
-* Tweet at us! We're [@NexmoDev on Twitter](https://twitter.com/NexmoDev)
-* Or [join the Nexmo Community Slack](https://developer.nexmo.com/community/slack)
+* Tweet at us! We're [@VonageDev on Twitter](https://twitter.com/VonageDev)
+* Or [join the Vonage Community Slack](https://developer.nexmo.com/community/slack)
 
 ## Further Reading
 
